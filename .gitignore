@@ -1,0 +1,22 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Datasets
+dataset/
+dataset_experiences/
+datasets_experiences/
+raw_coco128*/
+coco128/
+
+# Modèles et entraînements
+runs/
+*.pt
+*.pth
+*.onnx
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+.vscode/
